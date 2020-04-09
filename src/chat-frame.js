@@ -12,7 +12,7 @@ export default class ChatFrame {
 
     constructor(opts) {
         this.ICON_CROSSMARK = '<i class="fab fa-accessible-icon"></i>';
-        this.ICON_COMMENT = '<i class="fas fa-ambulance"></i>'';
+        this.ICON_COMMENT = '<i class="fab fa-app-store-ios"></i>';
 
 
         //Setup initial parameters[begin]
